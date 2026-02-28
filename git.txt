@@ -1,0 +1,13 @@
+sudo useradd username
+
+
+sudo useradd -m username
+
+
+grep pattern filename
+
+
+systemctl status git
+
+
+systemctl start git
